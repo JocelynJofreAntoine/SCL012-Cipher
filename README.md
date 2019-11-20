@@ -1,7 +1,7 @@
 # SECRET LOVE 
 Aplicación web que permite a los usuarios (parejas) enviar mensajes encriptados, dandoles tambien la posibilidad de desencriptarlos, y así poder comunicarse de forma secreta. 
 
-![Titulo](./src/img/titulo.png)
+![Titulo](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/titulo.PNG?raw=true)
 
 
 ## Cifrado Cesar
@@ -52,33 +52,27 @@ Esta aplicación web esta creada para parejas entre los 14 y 17 años aprox. ya 
 Se realizaron distintos prototipos de baja y alta fidelidad y tambien testeos de usabilidad.
 
 
-![Sketch 1](./src/img/sketch1.jpeg)
+ Sketch y Prototipos
 
+![Sketch](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/sketch1.jpeg?raw=true)
 
-![Sketch 2](./src/img/sketch2.jpeg)
+![Sketch](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/sketch2.jpeg)
 
+![Prototipo](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/Captura2.PNG?raw=true)
 
-![Prototipo 1](./src/img/Captura.png)
+![Prototipo](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/Captura.PNG?raw=true)
 
-![Prototipo 2](./src/img/Captura2.png)
+![Prototipo](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/Captura3.PNG?raw=true)
 
-![Prototipo 3](./src/img/Captura3.png)
+![Prototipo](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/Captura4.PNG?raw=true)
 
-![Prototipo 4](./src/img/Captura3.png)
+Test de Usabilidad
 
-TEST DE USABILIDAD
+![Test](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/testeo1.PNG?raw=true)
 
-![Testeo 1](./scr/img/testeo1.png)
+![Test](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/testeo2.PNG?raw=true)
 
-![Video 1](https://www.loom.com/share/04b9ef91c489463b9666cc6cd3d1bafb)
-
-![Testeo 2](./scr/img/testeo2.png)
-
-![Video 2](https://www.loom.com/share/d2641d6fec65490ebf27240a1ad0bf60)
-
-![Testeo 3](./scr/img/testeo3.png)
-
-![Video 3](https://www.loom.com/share/0dccf7f2d12c4c9f9ee630eba6e188fe)
+![Test](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/testeo3.PNG?raw=true)
 
 
 
