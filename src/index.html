@@ -1,15 +1,62 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
-    </div>
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>Caesar Cipher</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Rokkitt|Rosario&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+
+
+<body>
+
+
+  <div class="contenedor">
+
+      <h1> Secret Love </h1>
+  
+      <h2> ¿Quieres que tus mensajes sean secretos?</h2>
+
+      <p>Código César es un cifrado por sustitución en el que una letra en el texto original es remplazada por otra letra
+      que se encuentra en un número fijo de posiciones
+      más adelante en el alfabeto.</p>
+    
+
+      <p> A continuanción puedes ingresar los números que deseas desplazar</p>
+      <h3> ¿CUANTO AMAS A TU PAREJA?
+
+      <input id="offset" type="number" min="1" max="10" placeholder="1"></h3>
+
+          <textarea id="texto1" placeholder="Ingresa tu texto aquí"></textarea>
+         <br>
+         <br>
+
+          <button class="codi" id="button-cod">CODIFICAR</button>
+         <br>
+         <br>
+
+           <textarea id="texto2" placeholder="Ingresa tu texto aquí"></textarea>
+         <br>
+         <br>
+
+           <button class="codi" id="button-deco">DECODIFICAR</button>
+         <br>
+         <br>
+
+       <p>Este es tu mensaje!! </p>
+      
+       <div id="root" class="col-12"> </div>
+        <br>
+
+  </div>
+
+
+  <script src="cipher.js"></script>
+  <script src="index.js"></script>
+
+
+</body>
+
 </html>
