@@ -52,7 +52,7 @@ Esta aplicación web esta creada para parejas entre los 14 y 17 años aprox. ya 
 Se realizaron distintos prototipos de baja y alta fidelidad y tambien testeos de usabilidad.
 
 
- Sketch y Prototipos
+ ### Sketch y Prototipos
 
 ![Sketch](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/sketch1.jpeg?raw=true)
 
@@ -74,7 +74,13 @@ Test de Usabilidad
 
 ![Test](https://github.com/JocelynJofreAntoine/SCL012-Cipher/blob/master/src/img/testeo3.PNG?raw=true)
 
+### Videos de Usabilidad
 
+* (https://www.loom.com/share/04b9ef91c489463b9666cc6cd3d1bafb)
+
+* (https://www.loom.com/share/d2641d6fec65490ebf27240a1ad0bf60)
+
+* (https://www.loom.com/share/0dccf7f2d12c4c9f9ee630eba6e188fe)
 
 
 
